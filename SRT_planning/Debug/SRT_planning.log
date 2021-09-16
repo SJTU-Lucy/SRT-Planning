@@ -1,0 +1,33 @@
+﻿  Curve1d.cpp
+  SRT_planning.cpp
+C:\Users\18158\source\repos\SRT_planning\SRT_planning.cpp(30,1): warning C4005: “ERROR”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(118): message : 参见“ERROR”的前一个定义
+C:\Users\18158\source\repos\SRT_planning\SRT_planning.cpp(213,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\18158\source\repos\SRT_planning\SRT_planning.cpp(627,31): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\18158\source\repos\SRT_planning\SRT_planning.cpp(639,31): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\18158\source\repos\SRT_planning\SRT_planning.cpp(687,23): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\18158\source\repos\SRT_planning\SRT_planning.cpp(692,46): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\18158\source\repos\SRT_planning\SRT_planning.cpp(693,21): warning C4552: ”*“: 未使用表达式结果
+C:\Users\18158\source\repos\SRT_planning\SRT_planning.cpp(722,33): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+C:\Users\18158\source\repos\SRT_planning\SRT_planning.cpp(723,33): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+C:\Users\18158\source\repos\SRT_planning\SRT_planning.cpp(724,33): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+C:\Users\18158\source\repos\SRT_planning\SRT_planning.cpp(787,86): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\18158\source\repos\SRT_planning\SRT_planning.cpp(787,68): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\18158\source\repos\SRT_planning\SRT_planning.cpp(788,88): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\18158\source\repos\SRT_planning\SRT_planning.cpp(788,69): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\18158\source\repos\SRT_planning\SRT_planning.cpp(789,90): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\18158\source\repos\SRT_planning\SRT_planning.cpp(789,67): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\18158\source\repos\SRT_planning\SRT_planning.cpp(800,84): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\18158\source\repos\SRT_planning\SRT_planning.cpp(800,67): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\18158\source\repos\SRT_planning\SRT_planning.cpp(801,86): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\18158\source\repos\SRT_planning\SRT_planning.cpp(801,68): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\18158\source\repos\SRT_planning\SRT_planning.cpp(802,88): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\18158\source\repos\SRT_planning\SRT_planning.cpp(802,69): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\18158\source\repos\SRT_planning\SRT_planning.cpp(803,90): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\18158\source\repos\SRT_planning\SRT_planning.cpp(803,67): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  Trajectory1dGenerator.cpp
+  TrajectoryCombiner.cpp
+  TrajectoryDemo.cpp
+  TrajectoryEvaluator.cpp
+  正在生成代码...
+  SRT_planning.vcxproj -> C:\Users\18158\source\repos\SRT_planning\Debug\SRT_planning.exe
